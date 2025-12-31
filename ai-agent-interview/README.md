@@ -20,7 +20,11 @@ ai-agent-interview/
 │   │   ├── README.md               
 │   │   └── rubric.md
 │   │
-│   └── case-3-report-agent/
+│   ├── case-3-automation-agent/
+│   │   ├── README.md               
+│   │   └── rubric.md
+│   │
+│   └── case-4-risk-detection-agent/
 │       ├── README.md               
 │       └── rubric.md
 │
@@ -57,12 +61,12 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 
 The interview consists of **three rounds**:
 
-1. **Round 1**
-   - Choose one medium cases
+1. **Round 1** (Medium Difficulty)
+   - Choose one: Case 1 (Factory Agent) OR Case 4 (Risk Detection)
    
-2. **Round 2**
+2. **Round 2** (Complex Difficulty)
    - After passing Round 1, you will proceed to Round 2.
-   - Choose one complex cases
+   - Choose one: Case 2 (RAG Hallucination) OR Case 3 (Report Automation)
    
 3. **Final Round**
    - System design discussion with CEO & Tech Lead
@@ -154,13 +158,12 @@ ai-agent-interview/
 
 本次面试共分为**三轮**：
 
-1. **第一轮**
-第一轮用case-1-factory-agent 
+1. **第一轮**（中等难度）
+   - 选择一道：案例1（工厂搜索智能体）或 案例4（风险检测智能体）
    
-2. **第二轮**
-
-通过第一轮，进入第二轮。
-第二轮将从case 2 或者 case 3 案例目录自己选择一道面试题。
+2. **第二轮**（高难度）
+   - 通过第一轮后，进入第二轮
+   - 选择一道：案例2（RAG幻觉治理）或 案例3（报告自动化）
    
 3. **终面**
    - 与 CEO 及技术负责人进行系统设计讨论
