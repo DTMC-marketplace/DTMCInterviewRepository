@@ -55,6 +55,13 @@ Each record should include:
 - evidence_urls (mandatory)
 - confidence_score (optional)
 
+## Deliverables
+
+- System design document
+- Demo or core implementation
+- Sample test cases with expected outputs
+- Time spent on the case and tokens used
+
 ---
 
 # 案例1 – 实体工厂搜索智能体
@@ -113,3 +120,9 @@ Each record should include:
 - latitude / longitude（经纬度，可选）
 - evidence_urls（证据链接，必填）
 - confidence_score（置信度，可选）
+
+## 提交方式
+- 代码实现
+- 技术文档
+- 包含预期输出的测试用例
+- 完成案例所花费的时间 和 Tokens

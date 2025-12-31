@@ -32,10 +32,12 @@ The agent should:
 
 ---
 
-## Deliverables
+## Deliverables to mia@dtmastercarbon.fr
 
 - System design document
 - Demo or core implementation
+- Sample test cases with expected outputs
+- Time spent on the case and tokens used
 
 ---
 
@@ -73,7 +75,9 @@ The agent should:
 
 ---
 
-## 提交要求
+## 提交要求 to mia@dtmastercarbon.fr
 
 - 系统设计文档
 - 演示或核心实现
+- 包含预期输出的测试用例
+- 完成案例所花费的时间 和 Tokens

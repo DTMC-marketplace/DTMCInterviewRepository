@@ -32,11 +32,13 @@ Any additional hallucination mitigation techniques.
 
 ---
 
-## Deliverables
 
-- Technical document (required)
-- Code or pseudo-code (optional, bonus)
-- Time spent
+## Deliverables to mia@dtmastercarbon.fr
+
+- System design document
+- Demo or core implementation
+- Sample test cases with expected outputs
+- Time spent on the case and tokens used
 
 
 
@@ -130,11 +132,12 @@ DPO/RLHF 或基于偏好/拒答样本的微调策略（若适用）
 
 “答案必须引用证据”的产品级硬约束
 
-## 提交材料（Deliverables）
+## 提交材料（Deliverables）to mia@dtmastercarbon.fr
 
-文档（必需）：按回答 1–5 结构写清楚
-
-代码（可选但加分）：提供一个最小可运行 demo 或伪代码实现关键模块
+- 文档（必需）：按回答 1–5 结构写清楚
+- 代码（可选但加分）：提供一个最小可运行 demo 或伪代码实现关键模块
+- 包含预期输出的测试用例
+- 完成案例所花费的时间 和 Tokens
 
 ## 同时请附上：
 
@@ -144,6 +147,11 @@ DPO/RLHF 或基于偏好/拒答样本的微调策略（若适用）
 ## 提交方式
 
 请将 代码 + 文档 打包发送至：mia@dtmastercarbon.fr
+
+- 代码实现
+- 技术文档
+- 包含预期输出的测试用例
+- 完成案例所花费的时间 和 Tokens
 
 审核通过后进入最终 Oral Interview。
 

@@ -44,16 +44,25 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 
 ---
 
+## Case Complexity (1-4)
+
+- **Case 1 – Physical Factory Search Agent**: Medium. Tests retrieval precision, evidence tracking, and binary exclusion rules (Round 1 gate).
+- **Case 2 – RAG Hallucination Reduction**: Complex. Requires diagnosing failure modes and proposing single- and multi-agent mitigations.
+- **Case 3 – Automated Report Generation Agent**: Complex. Requires Excel/Word automation with strict grounding and schema enforcement.
+- **Case 4 – AI Risk Detection Agent**: Medium. Demands multi-label classification, severity scoring, and evidence extraction over long documents.
+
+---
+
 ## Interview Process
 
 The interview consists of **three rounds**:
 
 1. **Round 1**
-   Choose one interview case from the cases directory.
+   - Choose one medium cases
    
 2. **Round 2**
-   After passing Round 1, you will proceed to Round 2.
-   Choose one interview case from the cases directory.
+   - After passing Round 1, you will proceed to Round 2.
+   - Choose one complex cases
    
 3. **Final Round**
    - System design discussion with CEO & Tech Lead
@@ -132,17 +141,26 @@ ai-agent-interview/
 
 ---
 
+## 案例复杂度（1-4）
+
+- **案例1 – 实体工厂搜索智能体**：中等难度，考察检索精度、证据链以及硬性排除规则。
+- **案例2 – RAG 幻觉治理**：高难度，需要定位失效根因并提出单/多智能体的降低幻觉方案。
+- **案例3 – 自动化报告生成智能体**：高难度，聚焦 Excel/Word 自动化、强校验和严格的数据对齐。
+- **案例4 – AI 风险检测智能体**：中等难度，要求跨类别多标签分类、严重程度评分与长文本证据提取。
+
+---
+
 ## 面试流程
 
 本次面试共分为**三轮**：
 
 1. **第一轮**
-第一轮从案例目录自己选择一道面试题。 
+第一轮用case-1-factory-agent 
    
 2. **第二轮**
 
 通过第一轮，进入第二轮。
-第二轮将从案例目录自己选择一道面试题。
+第二轮将从case 2 或者 case 3 案例目录自己选择一道面试题。
    
 3. **终面**
    - 与 CEO 及技术负责人进行系统设计讨论
@@ -168,7 +186,8 @@ ai-agent-interview/
 - 代码
 - 技术文档
 - 完成案例所花费的时间
-- 时间限制 - 提交案例面试最多1周
+- 时间限制 
+- 提交案例面试最多1周
 
 📩 发送至：**mia@dtmastercarbon.fr**
 
