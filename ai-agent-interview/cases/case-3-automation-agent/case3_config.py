@@ -8,39 +8,39 @@ You can also use your own API keys or own models
 #Claude
 endpoint = "https://agentinterview-resource.services.ai.azure.com/anthropic/"
 deployment_name = "claude-opus-4-5"
-api_key = "YOUR_API_KEY"
+api_key = "REQUEST_FROM_INTERVIEWER"
 
 endpoint = "https://agentinterview-resource.services.ai.azure.com/anthropic/"
 deployment_name = "claude-sonnet-4-5"
-api_key = "YOUR_API_KEY"
+api_key = "REQUEST_FROM_INTERVIEWER"
 
 #OpenAI
 endpoint = "https://agentinterview-resource.cognitiveservices.azure.com/"
 model_name = "gpt-4.1"
 deployment = "gpt-4.1"
-subscription_key = "YOUR_API_KEY"
+subscription_key = "REQUEST_FROM_INTERVIEWER"
 api_version = "2024-12-01-preview"
 
 endpoint = "https://agentinterview-resource.cognitiveservices.azure.com/"
 model_name = "gpt-5.2"
 deployment = "gpt-5.2"
-subscription_key = "YOUR_API_KEY"
+subscription_key = "REQUEST_FROM_INTERVIEWER"
 api_version = "2024-12-01-preview"
 
 #DeepSeek
 endpoint = "https://agentinterview-resource.services.ai.azure.com/openai/v1/"
 model_name = "DeepSeek-R1-0528"
 deployment_name = "DeepSeek-R1-0528"
-api_key = "YOUR_API_KEY"
+api_key = "REQUEST_FROM_INTERVIEWER"
 
 endpoint = "https://agentinterview-resource.services.ai.azure.com/openai/v1/"
 model_name = "DeepSeek-V3.1"
 deployment_name = "DeepSeek-V3.1"
-api_key = "YOUR_API_KEY"
+api_key = "REQUEST_FROM_INTERVIEWER"
 
 #Gemini
 
-gemini3-api-key = "YOUR_API_KEY"
+gemini3-api-key = "REQUEST_FROM_INTERVIEWER"
 
 #Qwen
 

@@ -79,6 +79,7 @@ Please submit:
 - Code
 - Technical documentation
 - Time spent on the case
+- Time deadlines - 1 week maximum to submit the case interview
 
 📩 Send to: **mia@dtmastercarbon.fr**
 
@@ -167,6 +168,7 @@ ai-agent-interview/
 - 代码
 - 技术文档
 - 完成案例所花费的时间
+- 时间限制 - 提交案例面试最多1周
 
 📩 发送至：**mia@dtmastercarbon.fr**
 
