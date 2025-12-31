@@ -46,6 +46,12 @@ Use free tiers APIs
 #Zhipu (ZLM)
 Use free tiers APIs
 
+#Mistral
+endpoint = "https://agentinterview-resource.services.ai.azure.com/openai/v1/"
+model_name = "mistral-small-2503"
+deployment_name = "mistral-small-2503-2"
+api_key = "REQUEST_FROM_INTERVIEWER"
+
 
 #Embedding models
 endpoint = "https://agentinterview-resource.cognitiveservices.azure.com/"

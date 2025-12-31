@@ -1,6 +1,6 @@
 # AI Agent Engineering Interview
 
-This repository contains the official technical interview cases for the AI Agent Engineer position. If needed we can provide any API key for OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM).
+This repository contains the official technical interview cases for the AI Agent Engineer position. If needed we can provide any API key for OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM) / Mistral.
 
 Please read each case carefully before starting.
 ```
@@ -78,7 +78,7 @@ Only candidates who pass Round 1 will proceed to Round 2.
 ## Allowed Tools & Models
 
 Candidates may use:
-- OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM)
+- OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM) / Mistral
 - LangGraph / CrewAI / AutoGen or similar open-source frameworks
 - Public web data, open datasets, maps, satellite imagery (optional)
 
@@ -175,7 +175,7 @@ ai-agent-interview/
 ## 允许使用的工具和模型
 
 候选人可以使用：
-- OpenAI / DeepSeek / Claude / Gemini / 通义千问 / 智谱（ZLM）
+- OpenAI / DeepSeek / Claude / Gemini / 通义千问 / 智谱（ZLM）/ Mistral
 - LangGraph / CrewAI / AutoGen 或类似的开源框架
 - 公开网络数据、开放数据集、地图、卫星影像（可选）
 
