@@ -1,35 +1,35 @@
 # AI Agent Engineering Interview
 
-This repository contains the official technical interview cases for the AI Agent Engineer position.
+This repository contains the official technical interview cases for the AI Agent Engineer position. If needed we can provide any API key for OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM).
 
 Please read each case carefully before starting.
-
+```
 ai-agent-interview/
 ├── README.md                    
 ├── LICENSE                      
 │
 ├── cases/
 │   ├── case-1-factory-agent/
-│   │   ├── README.md            # Case 1 题目说明（候选人）
-│   │   ├── rubric.md            # Case 1 评分标准（评审）
+│   │   ├── README.md            
+│   │   ├── rubric.md          
 │   │   └── examples/
 │   │       ├── input_example.json
 │   │       └── output_example.json
 │   │
 │   ├── case-2-rag-hallucination/
-│   │   ├── README.md            # Case 2 题目说明
+│   │   ├── README.md               
 │   │   └── rubric.md
 │   │
 │   └── case-3-report-agent/
-│       ├── README.md            # Case 3 题目说明
+│       ├── README.md               
 │       └── rubric.md
 │
 ├── submission/
-│   └── expected-structure.md    # 候选人提交代码结构规范
-│
+│   └── expected-structure.md    
 └── reviewers/
-    ├── evaluation-checklist.md  # 内部评审 checklist
-    └── scoring-template.md      # 打分模板
+    ├── evaluation-checklist.md     
+    └── scoring-template.md         
+```
 
 
 # AI Agent Engineering Interview
