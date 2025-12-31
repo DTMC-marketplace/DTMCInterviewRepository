@@ -51,7 +51,7 @@ Any additional hallucination mitigation techniques.
 我们会提供：
 - Agent 的输出（Answer A）
 - 对应的正确答案（Ground Truth / Answer B）（以及必要的上下文/检索片段，如你需要）
-
+- 两个 Azure OpenAI API 密钥
 - 如有需要，我们可提供 OpenAI / DeepSeek / Claude / Gemini / Qwen / Zlm 等 API。
 - 请阅读 agent.md 了解更多详情。
 

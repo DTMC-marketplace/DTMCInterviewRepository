@@ -68,6 +68,8 @@ Candidates may use:
 - LangGraph / CrewAI / AutoGen or similar open-source frameworks
 - Public web data, open datasets, maps, satellite imagery (optional)
 
+Please ask for API keys from the interviewer or use your own.
+
 ---
 
 ## Submission
@@ -76,8 +78,6 @@ Please submit:
 - Code
 - Technical documentation
 - Time spent on the case
-- Highest degree
-- Salary expectation
 
 📩 Send to: **mia@dtmastercarbon.fr**
 
@@ -154,6 +154,8 @@ ai-agent-interview/
 - LangGraph / CrewAI / AutoGen 或类似的开源框架
 - 公开网络数据、开放数据集、地图、卫星影像（可选）
 
+请向面试官索取 API 密钥，或使用您自己的密钥。
+
 ---
 
 ## 提交要求
@@ -162,8 +164,6 @@ ai-agent-interview/
 - 代码
 - 技术文档
 - 完成案例所花费的时间
-- 最高学历
-- 期望薪资
 
 📩 发送至：**mia@dtmastercarbon.fr**
 

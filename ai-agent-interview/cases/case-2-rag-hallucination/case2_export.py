@@ -1,6 +1,6 @@
 """
-Sola Export SDK - Export Sola RAG data to Excel with Base Carbone matching
-Uses Sola Azure RAG (Azure AI Search) instead of local embeddings
+Case2 Export SDK - Export Case2 RAG data to Excel with Base Carbone matching
+Uses Case2 Azure RAG (Azure AI Search) instead of local embeddings
 No dependency on map_invoices_to_base_carbone.py
 """
 import datetime as dt

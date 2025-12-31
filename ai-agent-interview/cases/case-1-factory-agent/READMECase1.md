@@ -6,6 +6,8 @@ Build an AI Agent that:
 - **Input**: Fortune Global 500 company names
 - **Output**: A structured list of their **physical manufacturing facilities**
 
+If needed we can provide any API key for OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM).
+
 Examples:
 - Factories
 - Refineries
@@ -62,6 +64,8 @@ Each record should include:
 构建一个 AI 智能体，能够：
 - **输入**：财富全球500强公司名称
 - **输出**：该公司**实体制造设施**的结构化列表
+
+如有需要，我们可提供 OpenAI / DeepSeek / Claude / Gemini / 通义千问 / 智谱（ZLM）的 API 密钥
 
 示例：
 - 工厂
