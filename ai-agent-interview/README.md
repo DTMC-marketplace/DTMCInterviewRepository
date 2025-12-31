@@ -49,15 +49,16 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 The interview consists of **three rounds**:
 
 1. **Round 1**
+   Choose one interview case from the cases directory.
    
 2. **Round 2**
-
-For round 1 and 2, one interview case will be randomly selected from the cases directory.
+   After passing Round 1, you will proceed to Round 2.
+   Choose one interview case from the cases directory.
    
 3. **Final Round**
    - System design discussion with CEO & Tech Lead
 
-Only candidates who pass Round 1 will receive Round 2.
+Only candidates who pass Round 1 will proceed to Round 2.
 
 ---
 
@@ -135,10 +136,12 @@ ai-agent-interview/
 本次面试共分为**三轮**：
 
 1. **第一轮**
+第一轮从案例目录自己选择一道面试题。 
    
 2. **第二轮**
 
-第一轮和第二轮将从案例目录中随机抽取一道面试题。
+通过第一轮，进入第二轮。
+第二轮将从案例目录自己选择一道面试题。
    
 3. **终面**
    - 与 CEO 及技术负责人进行系统设计讨论
