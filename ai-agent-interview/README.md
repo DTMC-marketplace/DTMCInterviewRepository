@@ -72,8 +72,7 @@ The interview consists of **three rounds**:
    - System design discussion with CEO & Tech Lead
 
 Only candidates who pass Round 1 will proceed to Round 2.
-For candidates who got an offer at final round, we will provide a sign
-
+For candidates who got an offer at final round, we will provide a signing bonus of 2000 RMB
 ---
 
 ## Allowed Tools & Models
@@ -174,6 +173,7 @@ ai-agent-interview/
    - 与 CEO 及技术负责人进行系统设计讨论
 
 只有通过第一轮的候选人才能进入第二轮。
+通过终面并获得录用的候选人，将获得2000元人民币的签约奖金。
 
 ---
 
