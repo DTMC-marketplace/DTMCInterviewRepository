@@ -72,6 +72,7 @@ The interview consists of **three rounds**:
    - System design discussion with CEO & Tech Lead
 
 Only candidates who pass Round 1 will proceed to Round 2.
+For candidates who got an offer at final round, we will provide a sign
 
 ---
 
@@ -115,8 +116,8 @@ ai-agent-interview/
 │
 ├── cases/                       # 案例目录
 │   ├── case-1-factory-agent/
-│   │   ├── README.md            # 案例1 题目说明（候选人）
-│   │   ├── rubric.md            # 案例1 评分标准（评审）
+│   │   ├── README.md            # 案例1 题目说明
+│   │   ├── rubric.md            # 案例1 评分标准
 │   │   └── examples/
 │   │       ├── input_example.json
 │   │       └── output_example.json
@@ -125,8 +126,12 @@ ai-agent-interview/
 │   │   ├── README.md            # 案例2 题目说明
 │   │   └── rubric.md
 │   │
-│   └── case-3-report-agent/
-│       ├── README.md            # 案例3 题目说明
+│   ├── case-3-automation-agent/
+│   │   ├── README.md            # 案例3 题目说明
+│   │   └── rubric.md
+│   │
+│   └── case-4-risk-detection-agent/
+│       ├── README.md            # 案例4 题目说明
 │       └── rubric.md
 │
 ├── submission/                  # 提交目录
