@@ -9,10 +9,10 @@ Based on the role that you are interviewing please use the corresponding folder 
 
 # AI Agent Case Complexity
 
-- **Case 1 – Physical Factory Search Agent**: Medium. Focused on retrieval accuracy and evidence gathering for production facilities (Round 1 screen).
+- **Case 1 – The "Needle in the Haystack" Consistency Check**: Medium. Uses Gemini 2.5 Pro's 2M context to validate user claims vs. technical documentation in real-time (Round 1 gate).
 - **Case 2 – RAG Hallucination Reduction**: Complex. Requires diagnosing a broken retrieval pipeline and proposing agentic + multi-agent mitigations.
 - **Case 3 – Automated Report Agent**: Complex. Involves document understanding plus Excel/Word automation with strong grounding requirements.
-- **Case 4 – AI Risk Detection Agent**: Medium. Multi-label risk taxonomy, severity scoring, and evidence extraction across long-form content.
+- **Case 4 – The Multimodal "Human Oversight" Audit**: Medium. Uses Gemini's native vision to verify Article 14 (Human Oversight) compliance via UI/UX screenshots.
 
 # DTMCInterviewRepository
 
@@ -27,7 +27,7 @@ Based on the role that you are interviewing please use the corresponding folder 
 
 # AI 智能体案例难度
 
-- **案例1 – 实体工厂搜索智能体**：中等难度，核心是第一轮筛选，强调检索准确性与证据链。
+- **案例1 – "大海捞针"一致性检查**：中等难度，使用 Gemini 2.5 Pro 2M 上下文实时验证用户声明与技术文档的一致性。
 - **案例2 – RAG 幻觉治理**：高难度，需要诊断失效的检索流程，并给出单/多智能体降低幻觉的方案。
 - **案例3 – 自动化报告智能体**：高难度，涉及 Excel/Word 自动化与严格的数据到文本对齐。
-- **案例4 – AI 风险检测智能体**：中等难度，需要多标签风险分类、严重程度评分与长文本证据提取。
+- **案例4 – 多模态"人类监督"审计**：中等难度，使用 Gemini 原生视觉能力通过 UI/UX 截图验证第14条（人类监督）合规性。
