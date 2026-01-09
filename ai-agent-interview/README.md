@@ -50,10 +50,10 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 
 ## Case Complexity (1-4)
 
-- **Case 1 – The "Needle in the Haystack" Consistency Check**: Medium. Uses Gemini 2.5 Pro's 2M context to validate user claims vs. technical documentation in real-time (Round 1 gate).
-- **Case 2 – RAG Hallucination Reduction**: Complex. Requires diagnosing failure modes and proposing single- and multi-agent mitigations.
-- **Case 3 – Automated Report Generation Agent**: Complex. Requires Excel/Word automation with strict grounding and schema enforcement.
-- **Case 4 – The Multimodal "Human Oversight" Audit**: Medium. Uses Gemini's native vision to verify Article 14 (Human Oversight) compliance via UI/UX screenshots.
+- **Case 1 – Physical Factory Search Agent**: Medium. Focused on retrieval accuracy and evidence gathering for production facilities (Round 1 screen).
+- **Case 2 – RAG Hallucination Reduction**: Complex. Requires diagnosing a broken retrieval pipeline and proposing agentic + multi-agent mitigations.
+- **Case 3 – Automated Report Agent**: Complex. Involves document understanding plus Excel/Word automation with strong grounding requirements.
+- **Case 4 – AI Risk Detection Agent**: Medium. Multi-label risk taxonomy, severity scoring, and evidence extraction across long-form content.
 
 ---
 
@@ -62,7 +62,7 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 The interview consists of **three rounds**:
 
 1. **Round 1** (Medium Difficulty)
-   - Choose one: Case 1 (Consistency Check) OR Case 4 (Human Oversight Audit)
+   - Choose one: Case 1 (Factory Search Agent) OR Case 4 (Risk Detection Agent)
    
 2. **Round 2** (Complex Difficulty)
    - After passing Round 1, you will proceed to Round 2.
@@ -153,10 +153,10 @@ ai-agent-interview/
 
 ## 案例复杂度（1-4）
 
-- **案例1 – "大海捞针"一致性检查**：中等难度，使用 Gemini 2.5 Pro 2M 上下文实时验证用户声明与技术文档的一致性。
-- **案例2 – RAG 幻觉治理**：高难度，需要定位失效根因并提出单/多智能体的降低幻觉方案。
-- **案例3 – 自动化报告生成智能体**：高难度，聚焦 Excel/Word 自动化、强校验和严格的数据对齐。
-- **案例4 – 多模态"人类监督"审计**：中等难度，使用 Gemini 原生视觉能力通过UI/UX截图验证第14条（人类监督）合规性。
+- **案例1 – 实体工厂搜索智能体**：中等难度，核心是第一轮筛选，强调检索准确性与证据链。
+- **案例2 – RAG 幻觉治理**：高难度，需要诊断失效的检索流程，并给出单/多智能体降低幻觉的方案。
+- **案例3 – 自动化报告智能体**：高难度，涉及 Excel/Word 自动化与严格的数据到文本对齐。
+- **案例4 – AI 风险检测智能体**：中等难度，需要多标签风险分类、严重程度评分与长文本证据提取。
 
 ---
 
@@ -165,7 +165,7 @@ ai-agent-interview/
 本次面试共分为**三轮**：
 
 1. **第一轮**（中等难度）
-   - 选择一道：案例1（一致性检查）或 案例4（人类监督审计）
+   - 选择一道：案例1（工厂搜索智能体）或 案例4（风险检测智能体）
    
 2. **第二轮**（高难度）
    - 通过第一轮后，进入第二轮
