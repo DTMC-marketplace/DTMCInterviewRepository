@@ -62,7 +62,7 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 The interview consists of **three rounds**:
 
 1. **Round 1** (Medium Difficulty)
-   - Choose one: Case 1 (Factory Agent) OR Case 4 (Risk Detection)
+   - Choose one: Case 1 (Consistency Check) OR Case 4 (Human Oversight Audit)
    
 2. **Round 2** (Complex Difficulty)
    - After passing Round 1, you will proceed to Round 2.
@@ -165,7 +165,7 @@ ai-agent-interview/
 本次面试共分为**三轮**：
 
 1. **第一轮**（中等难度）
-   - 选择一道：案例1（工厂搜索智能体）或 案例4（风险检测智能体）
+   - 选择一道：案例1（一致性检查）或 案例4（人类监督审计）
    
 2. **第二轮**（高难度）
    - 通过第一轮后，进入第二轮
