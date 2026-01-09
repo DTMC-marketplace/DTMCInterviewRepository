@@ -50,10 +50,10 @@ The interview focuses on **real-world agent engineering**, not toy demos:
 
 ## Case Complexity (1-4)
 
-- **Case 1 – Physical Factory Search Agent**: Medium. Tests retrieval precision, evidence tracking, and binary exclusion rules (Round 1 gate).
+- **Case 1 – The "Needle in the Haystack" Consistency Check**: Medium. Uses Gemini 2.5 Pro's 2M context to validate user claims vs. technical documentation in real-time (Round 1 gate).
 - **Case 2 – RAG Hallucination Reduction**: Complex. Requires diagnosing failure modes and proposing single- and multi-agent mitigations.
 - **Case 3 – Automated Report Generation Agent**: Complex. Requires Excel/Word automation with strict grounding and schema enforcement.
-- **Case 4 – AI Risk Detection Agent**: Medium. Demands multi-label classification, severity scoring, and evidence extraction over long documents.
+- **Case 4 – The Multimodal "Human Oversight" Audit**: Medium. Uses Gemini's native vision to verify Article 14 (Human Oversight) compliance via UI/UX screenshots.
 
 ---
 
@@ -153,10 +153,10 @@ ai-agent-interview/
 
 ## 案例复杂度（1-4）
 
-- **案例1 – 实体工厂搜索智能体**：中等难度，考察检索精度、证据链以及硬性排除规则。
+- **案例1 – "大海捞针"一致性检查**：中等难度，使用 Gemini 2.5 Pro 2M 上下文实时验证用户声明与技术文档的一致性。
 - **案例2 – RAG 幻觉治理**：高难度，需要定位失效根因并提出单/多智能体的降低幻觉方案。
 - **案例3 – 自动化报告生成智能体**：高难度，聚焦 Excel/Word 自动化、强校验和严格的数据对齐。
-- **案例4 – AI 风险检测智能体**：中等难度，要求跨类别多标签分类、严重程度评分与长文本证据提取。
+- **案例4 – 多模态"人类监督"审计**：中等难度，使用 Gemini 原生视觉能力通过UI/UX截图验证第14条（人类监督）合规性。
 
 ---
 
