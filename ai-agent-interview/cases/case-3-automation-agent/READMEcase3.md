@@ -15,7 +15,9 @@ Due to the task complexity you can just automate step 1 and 2
 ## Mission
 
 The agent should:
-- Read structured Excel inputs
+- ask questions to get the data from the user based on the template methodology
+- automate entirely the methodology based on methodology document
+- Read structured Excel inputs to get more data if existing
 - Populate Word report templates
 - Ensure numerical & semantic consistency
 - Avoid hallucination
@@ -58,12 +60,13 @@ The agent should:
 ## 任务目标
 
 该智能体应能够：
-- 读取结构化的 Excel 输入
+- 问问题以获取用户数据
+- 自动化整个方法论
+- 读取结构化的 Excel 输入 以获取更多数据
 - 填充 Word 报告模板
 - 确保数值和语义的一致性
 - 避免幻觉
 - 可复用于不同的客户和模板
-
 ---
 
 ## 核心要求
