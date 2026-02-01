@@ -8,7 +8,7 @@ Reports are currently produced manually using:
 
 Your task is to design an AI Agent that automates this workflow.
 Any API key for OpenAI / DeepSeek / Claude / Gemini / Qwen / Zhipu (ZLM) are in the config file.
-Due to the task complexity you can just automate step 1 and 2
+
 
 ---
 
@@ -53,7 +53,7 @@ The agent should:
 
 你的任务是设计一个自动化此工作流程的 AI 智能体。
 如有需要，我们可提供 OpenAI / DeepSeek / Claude / Gemini / 通义千问 / 智谱（ZLM）的 API 密钥。
-所有 OpenAI / DeepSeek / Claude / Gemini / 通义千问 / 智谱（ZLM）的 API 密钥都在配置文件中。 由于任务复杂性，你可以只自动化步骤1和步骤2。
+所有 OpenAI / DeepSeek / Claude / Gemini / 通义千问 / 智谱（ZLM）的 API 密钥都在配置文件中。 
 
 ---
 
